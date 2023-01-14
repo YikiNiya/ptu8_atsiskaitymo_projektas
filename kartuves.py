@@ -129,7 +129,13 @@ def kartuves():
         print('_|___      ')
         print(f'Jus mirėte. Žodis buvo: ', zodis)
     else:
-        print('Jus laimėjote!', zodis)
-
+        print('_________       ')
+        print(' | /   |        ')
+        print(' |/    |        ')
+        print(' |              ')
+        print(' |         \O/  ')
+        print(' |          |   ')
+        print('_|___      / \  ')
+        print('Jus laimėjote! Atspėjote žodi: ', zodis)
 
 kartuves()
